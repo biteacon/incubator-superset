@@ -101,6 +101,8 @@ supported databases can be found
 
 ## Installation and Configuration
 
+`docker-compose up -d`
+
 [See in the documentation](https://superset.incubator.apache.org/installation.html)
 
 
